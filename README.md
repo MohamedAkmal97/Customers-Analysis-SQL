@@ -28,7 +28,7 @@ I. Trends about Gender
 1.	Gender distribution
 2.	Purchase price distribution by gender
 3.	Total & average price spent by gender and year
-4.	Churn and returns by genger
+4.	Churn and returns by gender
 
 
 II. Trends about Age
