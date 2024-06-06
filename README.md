@@ -43,3 +43,8 @@ II. Trends about Age
 3.	Monthly return and churn rate by year
 
 
+
+
+Final Dashboard: 
+
+https://public.tableau.com/app/profile/mohamed.akmal/viz/CustomerAnalysis_17177008161070/CustomerAnalysis 
